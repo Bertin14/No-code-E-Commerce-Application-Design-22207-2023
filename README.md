@@ -163,7 +163,7 @@
 - Lecturer **Eric Maniraguha** for the project guidance and inspiration
 - **UNILAK** — University of Lay Adventists of Kigali
 - Rwanda Arts & Crafts community for product inspiration
-- Platform documentation and community resources from `[Wix / WordPress / Shopify]`
+- Platform documentation and community resources from `Wix`
 
 
 ---
