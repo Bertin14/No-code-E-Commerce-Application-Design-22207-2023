@@ -30,8 +30,8 @@
 | Tool                    | Details                                            |
 | ----------------------- | -------------------------------------------------- |
 | **Platform**            | `Wix`                                            |
-| **Template Used**       | `[ "Fashion Store"]`                               |
-| **Customization Level** | `["Heavily customized colors, fonts, and layout"]` |
+| **Template Used**       | ` "Fashion Store"`                               |
+| **Customization Level** | `"Heavily customized colors, fonts, and layout"` |
 
 ---
 
@@ -39,7 +39,7 @@
 
 | Resource                 | Link                                                             |
 | ------------------------ | ---------------------------------------------------------------- |
-| 🔗 **Live Website**      | [Visit the Store](`https://bertinrukundo.wixsite.com/my-site-3`) |
+| 🔗 **Live Website**      |`https://bertinrukundo.wixsite.com/my-site-3` |
 | 📁 **GitHub Repository** | [View on GitHub](`your-github-repo-link-here`)                   |
 
 ---
@@ -114,12 +114,13 @@
 
 ### 🏡 4. About Page
 
-![alt text](3.jpeg)
+<img width="1600" height="846" alt="3" src="https://github.com/user-attachments/assets/1e50a5c8-3979-4595-acba-f937d60acc8d" />
+
 
 > _Description: The About page introduces Rwanda Crafts Store — its story, vision, and mission to promote authentic Rwandan handmade crafts to local and global customers. It highlights the passion behind the brand and the artisan communities it supports._
 
 ---
-<img width="1600" height="846" alt="3" src="https://github.com/user-attachments/assets/2ee353fb-0a52-4f0c-8138-79cfe81856ca" />
+
 
 ## 🏗️ Repository Structure
 
@@ -176,10 +177,4 @@
 
 ---
 
-<div align="center">
 
-_🎓 "Your project is not just an assignment — it is part of your professional portfolio."_
-
-**🧺 Rwanda Crafts Store | EWA408510 | UNILAK | 2025–2026**
-
-</div>
