@@ -29,7 +29,7 @@
 
 | Tool                    | Details                                            |
 | ----------------------- | -------------------------------------------------- |
-| **Platform**            | `[Wix]`                                            |
+| **Platform**            | `Wix`                                            |
 | **Template Used**       | `[ "Fashion Store"]`                               |
 | **Customization Level** | `["Heavily customized colors, fonts, and layout"]` |
 
