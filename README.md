@@ -92,8 +92,10 @@
 
 ### 🛍️ 2. Product Page
 
-![alt text](6.jpg)
-![alt text](7.jpg)
+<img width="1896" height="945" alt="6" src="https://github.com/user-attachments/assets/2ec4b874-40f1-4c87-bd2c-bff2f622d3dd" />
+
+<img width="1891" height="877" alt="7" src="https://github.com/user-attachments/assets/1bdf7efe-8bdc-4453-a33f-176dbf6dd6ee" />
+
 
 > _Description: The product page displays [number] products, each with a high-quality image, product name, price, and short description._
 
@@ -101,8 +103,10 @@
 
 ### 🛒 3. Cart / Contact Page
 
-![alt text](4-2.jpeg)
-![alt text](5.jpeg)
+<img width="1600" height="813" alt="4" src="https://github.com/user-attachments/assets/af39f38c-ec24-4943-bee5-c6997b6b62c4" />
+<img width="1600" height="801" alt="5" src="https://github.com/user-attachments/assets/047e3a6a-f908-4ad3-b785-c501540dd3e8" />
+
+
 
 > _Description: [Briefly describe what is shown — e.g., "The cart page shows added items with quantity controls and a checkout button." or "The contact page includes a form with name, email, and message fields."]_
 
@@ -115,6 +119,7 @@
 > _Description: The About page introduces Rwanda Crafts Store — its story, vision, and mission to promote authentic Rwandan handmade crafts to local and global customers. It highlights the passion behind the brand and the artisan communities it supports._
 
 ---
+<img width="1600" height="846" alt="3" src="https://github.com/user-attachments/assets/2ee353fb-0a52-4f0c-8138-79cfe81856ca" />
 
 ## 🏗️ Repository Structure
 
