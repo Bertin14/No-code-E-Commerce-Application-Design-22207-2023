@@ -40,7 +40,7 @@
 | Resource                 | Link                                                             |
 | ------------------------ | ---------------------------------------------------------------- |
 | 🔗 **Live Website**      |`https://bertinrukundo.wixsite.com/my-site-3` |
-| 📁 **GitHub Repository** | [View on GitHub](`your-github-repo-link-here`)                   |
+| 📁 **GitHub Repository** |`https://github.com/Bertin14/No-code-E-Commerce-Application-Design-22207-2023/tree/main` |                 
 
 ---
 
