@@ -83,8 +83,8 @@
 
 ### 🏠 1. Homepage
 
-![alt text](1.jpeg)
-![alt text](2.jpeg)
+<img width="1600" height="866" alt="1" src="https://github.com/user-attachments/assets/83a89c9a-a916-4245-833f-e5b3ee91a0df" />
+<img width="1600" height="751" alt="2" src="https://github.com/user-attachments/assets/ddff9f75-fa8c-4500-8979-b649f56e0e54" />
 
 > _Description: The homepage features the store name "Rwanda Crafts Store", a welcome message, featured products, and clear navigation links._
 
@@ -166,7 +166,7 @@
 
 > _I confirm that this project is my own individual work. I have not plagiarized or copied any part of this project from another student. All external resources used have been properly acknowledged._
 
-**Student Signature:** `[Your Full Name]`
+**Student Signature:** `Rukundo Bertin`
 **Date:** May 27, 2026
 
 ---
